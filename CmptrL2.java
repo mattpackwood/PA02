@@ -1,7 +1,6 @@
-/*
- * Matt Packwood, Orchard Ridge, Monday Evening Class, Fall Semester 2003
- * Computer PA02; 
- *	Complex figure display from base variables
+/* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
+ * M
+ * Computer PA02: Complex figure display from base variables
  *
  * Demo the use of vars and expressions in constructing a complex 
  * display of a Computer.  The bottom left corner of the CPU
